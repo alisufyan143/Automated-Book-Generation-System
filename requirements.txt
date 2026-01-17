@@ -1,0 +1,26 @@
+# Book Generation System - Dependencies
+
+# LLM Integration (Gemini)
+google-genai>=1.0.0
+
+# Database
+supabase>=2.0.0
+
+# Excel/Input Handling
+openpyxl>=3.1.0
+
+# Document Generation
+python-docx>=1.0.0
+reportlab>=4.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Email (Notifications)
+# Uses built-in smtplib, no extra package needed
+
+# Web Dashboard
+streamlit>=1.30.0
